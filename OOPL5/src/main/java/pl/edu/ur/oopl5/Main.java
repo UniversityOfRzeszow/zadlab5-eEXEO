@@ -6,8 +6,8 @@ public class Main {
     {
         Liczba lb = new Liczba();
         
-        lb.dodaj("1111");
-        lb.mnozenie(1111);
+        lb.dodaj("11111");
+        lb.mnozenie(11111);
         
         System.out.println(lb.wypisz());
         System.out.println(lb.silnia(8));
